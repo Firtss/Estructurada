@@ -1,0 +1,101 @@
+Indice  Estatus    Matricula  Apellido paterno     Apellido materno     Nombre               Edad  Genero    
+0       ACTIVO     311917     JUAREZ               COTA                 ALEJANDRA            41    MUJER     
+1       ACTIVO     318013     FERNANDEZ            FLORES               AMANDA               61    MUJER     
+2       ACTIVO     313706     PEREZ                DUARTE               BRUNA                67    MUJER     
+3       ACTIVO     327978     FLORES               MEJIA                ALVARO               18    HOMBRE    
+4       ACTIVO     314350     ALVAREZ              JUAREZ               BIANCA               55    MUJER     
+5       ACTIVO     310213     QUISPE               QUISPE               GINEBRA              28    MUJER     
+6       ACTIVO     318772     CASTRO               ROJAS                JAVIER               21    HOMBRE    
+7       ACTIVO     313872     CASTILLO             ANDRADE              PABLO                26    HOMBRE    
+8       ACTIVO     300281     DE LA FUENTE         MARTINEZ             AURA                 61    MUJER     
+9       ACTIVO     332161     COTA                 PEREZ                ADRIAN               37    HOMBRE    
+10      ACTIVO     329260     FERNANDEZ            DEL TORO             FRANCISCO            63    HOMBRE    
+11      ACTIVO     306379     ESPINOZA             CONTRERAS            ALEXA                21    MUJER     
+12      ACTIVO     318170     QUISPE               RUIZ                 MAGDALENA            23    MUJER     
+13      ACTIVO     331502     MARTINEZ             GARCIA               ALBERTO              59    HOMBRE    
+14      ACTIVO     311640     RODRIGUEZ            GARCIA               AMANDA               69    MUJER     
+15      ACTIVO     329089     MORA                 JUAREZ               GAEL                 45    HOMBRE    
+16      ACTIVO     300721     ESPINOZA             CONTRERAS            GERMAN               24    HOMBRE    
+17      ACTIVO     304702     DEL TORO             JUAREZ               MAGDALENA            66    MUJER     
+18      ACTIVO     326226     ESPINOZA             DIAZ                 JOHAN                52    HOMBRE    
+19      ACTIVO     324557     CASTILLO             ROJAS                AMANDA               25    MUJER     
+20      ACTIVO     308979     CASTILLO             FERNANDEZ            MIA                  51    MUJER     
+21      ACTIVO     312789     FERNANDEZ            MARTINEZ             ALDO                 57    HOMBRE    
+22      ACTIVO     306375     PEREZ                PINEDA               ALEXA                41    MUJER     
+23      ACTIVO     311360     VERA                 MARTINEZ             ALEXIA               50    MUJER     
+24      ACTIVO     305383     FLORES               VERA                 OLIVIA               68    MUJER     
+25      ACTIVO     320974     DIAZ                 MORA                 ADRIAN               32    HOMBRE    
+26      ACTIVO     316924     ANDRADE              DUARTE               ERICK                62    HOMBRE    
+27      ACTIVO     332252     PEREZ                HERNANDEZ            ESMERALDA            69    MUJER     
+28      ACTIVO     307756     FLORES               COTA                 DYLAN                68    HOMBRE    
+29      ACTIVO     320885     GARCIA               GARCIA               MARTINA              52    MUJER     
+30      ACTIVO     308806     MEJIA                DUARTE               ELENA                57    MUJER     
+31      ACTIVO     324505     PINEDA               PINEDA               ISAAC                38    HOMBRE    
+32      ACTIVO     301615     MORA                 JUAREZ               HUGO                 21    HOMBRE    
+33      ACTIVO     309452     PINEDA               DEL TORO             FRANCISCO            37    HOMBRE    
+34      ACTIVO     320143     ROJAS                MEJIA                MARTINA              68    MUJER     
+35      ACTIVO     305634     CASTRO               QUISPE               MONSERRAT            38    MUJER     
+36      ACTIVO     304055     BENITEZ              ROJAS                ALDO                 47    HOMBRE    
+37      ACTIVO     321033     SANCHEZ              VERA                 OLIVER               59    HOMBRE    
+38      ACTIVO     304598     COTA                 PINEDA               FELIX                25    HOMBRE    
+39      ACTIVO     317463     ANDRADE              FERNANDEZ            GAEL                 34    HOMBRE    
+40      ACTIVO     317020     VERA                 SILVA                ALEXA                56    MUJER     
+41      ACTIVO     316180     LOPEZ                SILVA                LEONARDO             66    HOMBRE    
+42      ACTIVO     307885     SANCHEZ              ESPINOZA             LEONARDO             20    HOMBRE    
+43      ACTIVO     325130     GARCIA               ANDRADE              JAVIER               55    HOMBRE    
+44      ACTIVO     301065     DUARTE               HERNANDEZ            GINEBRA              24    MUJER     
+45      ACTIVO     320268     GARCIA               ALVAREZ              ABRIL                65    MUJER     
+46      ACTIVO     304315     VERA                 HERNANDEZ            FELIX                59    HOMBRE    
+47      ACTIVO     300420     DEL TORO             SANCHEZ              JOHAN                41    HOMBRE    
+48      ACTIVO     300672     RODRIGUEZ            RODRIGUEZ            AURA                 44    MUJER     
+49      ACTIVO     320449     PINEDA               SANCHEZ              ALBERTO              36    HOMBRE    
+50      ACTIVO     315962     COTA                 ALVAREZ              DYLAN                50    HOMBRE    
+51      ACTIVO     325567     ROJAS                ANDRADE              DAFNE                36    MUJER     
+52      ACTIVO     327892     PINEDA               FERNANDEZ            ADRIAN               34    HOMBRE    
+53      ACTIVO     314169     COTA                 CASTILLO             AXEL                 27    HOMBRE    
+54      ACTIVO     322936     DE LA FUENTE         DEL TORO             HUGO                 68    HOMBRE    
+55      ACTIVO     324332     HERNANDEZ            CASTILLO             FRIDA                47    MUJER     
+56      ACTIVO     332015     GARCIA               MORA                 DAFNE                55    MUJER     
+57      ACTIVO     312621     FERNANDEZ            RUIZ                 AXEL                 63    HOMBRE    
+58      ACTIVO     325207     VERA                 COTA                 ALBERTO              69    HOMBRE    
+59      ACTIVO     305069     CASTILLO             CONTRERAS            LUCAS                70    HOMBRE    
+60      ACTIVO     320780     GARCIA               MARTINEZ             AXEL                 59    HOMBRE    
+61      ACTIVO     331914     RUIZ                 ANDRADE              TERESA               63    MUJER     
+62      ACTIVO     326607     SILVA                BENITEZ              HUGO                 62    HOMBRE    
+63      ACTIVO     329370     SANCHEZ              ALVAREZ              ADRIAN               31    HOMBRE    
+64      ACTIVO     305467     DE LA FUENTE         FERNANDEZ            TERESA               53    MUJER     
+65      ACTIVO     306419     VERA                 DIAZ                 AMANDA               50    MUJER     
+66      ACTIVO     306537     RODRIGUEZ            DIAZ                 ALBERTO              61    HOMBRE    
+67      ACTIVO     304574     HERNANDEZ            DUARTE               FRANCISCO            53    HOMBRE    
+68      ACTIVO     332002     ROJAS                FLORES               MARTINA              55    MUJER     
+69      ACTIVO     317500     FLORES               BENITEZ              FRANCISCO            68    HOMBRE    
+70      ACTIVO     310469     MORA                 VERA                 ADONIS               46    HOMBRE    
+71      ACTIVO     321048     ESPINOZA             GARCIA               DYLAN                34    HOMBRE    
+72      ACTIVO     303160     MARTINEZ             LOPEZ                ALVARO               69    HOMBRE    
+73      ACTIVO     318447     QUISPE               CASTRO               FERNANDA             53    MUJER     
+74      ACTIVO     331539     PINEDA               CONTRERAS            OLIVIA               34    MUJER     
+75      ACTIVO     321821     FLORES               PEREZ                OLIVIA               27    MUJER     
+76      ACTIVO     312778     CASTRO               CONTRERAS            DAFNE                59    MUJER     
+77      ACTIVO     305865     RODRIGUEZ            PINEDA               LEONARDO             43    HOMBRE    
+78      ACTIVO     310939     LOPEZ                SILVA                ISAAC                26    HOMBRE    
+79      ACTIVO     316978     DE LA FUENTE         FLORES               ALDO                 37    HOMBRE    
+80      ACTIVO     312312     RUIZ                 CONTRERAS            ALBERTO              56    HOMBRE    
+81      ACTIVO     314939     PEREZ                DEL TORO             ALEXIA               61    MUJER     
+82      ACTIVO     322615     QUISPE               MORA                 VALERIA              35    MUJER     
+83      ACTIVO     323637     CONTRERAS            ROJAS                YAEL                 29    HOMBRE    
+84      ACTIVO     322167     QUISPE               PINEDA               DYLAN                56    HOMBRE    
+85      ACTIVO     304107     BENITEZ              FERNANDEZ            MAGDALENA            52    MUJER     
+86      ACTIVO     319701     DUARTE               DEL TORO             LEONARDO             51    HOMBRE    
+87      ACTIVO     326387     QUISPE               RODRIGUEZ            PAOLA                59    MUJER     
+88      ACTIVO     303055     GARCIA               JUAREZ               ADAM                 60    HOMBRE    
+89      ACTIVO     322355     ROJAS                DUARTE               DANIEL               55    HOMBRE    
+90      ACTIVO     327416     GARCIA               RODRIGUEZ            ALEJANDRO            70    HOMBRE    
+91      ACTIVO     323761     JUAREZ               RUIZ                 BRUNO                45    HOMBRE    
+92      ACTIVO     309981     MARTINEZ             VERA                 ELENA                60    MUJER     
+93      ACTIVO     303775     RUIZ                 ESPINOZA             OLIVIA               42    MUJER     
+94      ACTIVO     328758     SANCHEZ              DUARTE               ADAM                 43    HOMBRE    
+95      ACTIVO     329638     CASTRO               PINEDA               ALDO                 64    HOMBRE    
+96      ACTIVO     306256     DEL TORO             MARTINEZ             MIA                  53    MUJER     
+97      ACTIVO     308593     BENITEZ              ROJAS                MARIA                43    MUJER     
+98      ACTIVO     301753     LOPEZ                COTA                 TERESA               41    MUJER     
+99      ACTIVO     329596     ALVAREZ              ANDRADE              ALEXIA               59    MUJER     
